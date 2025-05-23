@@ -1,0 +1,6 @@
+﻿,product_id,product_name,category,discounted_price,actual_price,discount_percentage,rating,rating_count,about_product,user_id,user_name,review_id,review_title,review_content,img_link,product_link
+0,P001,Bread,Personal Care,89.23,127.47,30,1.2,892,This is a bread from the Personal Care category.,U648,Charlie,R001,Would not recommend,Terrible experience.,https://example.com/images/P001.jpg,https://blinkit.com/product/P001
+1,P002,Tomato,Personal Care,195.24,244.05,20,2.6,73,This is a tomato from the Personal Care category.,U473,Ivy,R002,Fantastic,Really enjoyed this product.,https://example.com/images/P002.jpg,https://blinkit.com/product/P002
+2,P003,Orange Juice,Fruits & Vegetables,112.92,150.56,25,2.7,364,This is a orange juice from the Fruits & Vegetables category.,U634,Frank,R003,Excellent,It's fine for the price.,https://example.com/images/P003.jpg,https://blinkit.com/product/P003
+3,P004,Coke,Fruits & Vegetables,335.52,372.8,10,1.9,977,This is a coke from the Fruits & Vegetables category.,U583,Hannah,R004,Superb,It's fine for the price.,https://example.com/images/P004.jpg,https://blinkit.com/product/P004
+4,P005,Coke,Beverages,212.24,223.41,5,3.1,560,This is a coke from the Beverages category.,U510,David,R005,Great product,One of the best I've used.,https://example.com/images/P005.jpg,https://blinkit.com/product/P005
